@@ -22,18 +22,7 @@
     <favorites_list name="ChatServer-python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="byteReplaceCommand.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/byteReplaceCommand.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-              <caret line="0" column="112" selection-start-line="0" selection-start-column="112" selection-end-line="0" selection-end-column="112" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -104,26 +93,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatServer-python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatServer-python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django/mysite" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
   </component>
@@ -398,8 +373,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/byteReplaceCommand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-          <caret line="0" column="112" selection-start-line="0" selection-start-column="112" selection-end-line="0" selection-end-column="112" />
+        <state vertical-scroll-proportion="0.44407895" vertical-offset="0" max-vertical-offset="608">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
           <folding />
         </state>
       </provider>
